@@ -168,9 +168,9 @@ cd hng_boilerplate_python_fastapi_web
 psql -
 CREATE DATABASE IMAGE;
 <a>
-    <img height="400px" src="https://solididbucket.s3.amazonaws.com/HNG+Boilerplate.png" alt="Jenkins logo"> 
+    <img height="600px" src="https://solididbucket.s3.amazonaws.com/HNG+Boilerplate.png" alt="Jenkins logo"> 
 </a>
-![img.png](img.png)
+
 
 
 
