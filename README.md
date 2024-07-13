@@ -169,7 +169,7 @@ cd hng_boilerplate_python_fastapi_web
 
 
 
-## DATABASE IMAGE;
+## DATABASE IMAGE:
 
  
 <a>
@@ -187,13 +187,7 @@ mvn spring-boot:run
 
 
 ```
-Access the Swagger UI to interact with the API:
-```bash
 
-
-
-
-```
 
 
 
