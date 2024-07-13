@@ -3,6 +3,10 @@
 The  API provides endpoints to manage users, organizations, posts, and payments, with features such as registration, login, adding users to organizations, creating posts, and managing payments through various providers.
 FastAPI boilerplate
 
+
+## Decoupling
+To keep the code decoupled, we ensured we maintained a modular design and ensured seperation of concerns(SOCs) to enhance maintainability and scalability
+
 ## Setup
 
 ## DESCRIPTION
@@ -165,7 +169,9 @@ cd hng_boilerplate_python_fastapi_web
 
 
 
- DATABASE IMAGE;
+## DATABASE IMAGE;
+
+ 
 <a>
     <img height="600px" src="https://solididbucket.s3.amazonaws.com/HNG+Boilerplate.png" alt="Jenkins logo"> 
 </a>
