@@ -180,10 +180,7 @@ cd hng_boilerplate_python_fastapi_web
 
 
 
-Build and run the application:
 
-mvn clean install
-mvn spring-boot:run
 
 
 ```
