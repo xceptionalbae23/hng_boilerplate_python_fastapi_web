@@ -164,9 +164,8 @@ cd hng_boilerplate_python_fastapi_web
 
 
 
-```bash
-psql -
-CREATE DATABASE IMAGE;
+
+ DATABASE IMAGE;
 <a>
     <img height="600px" src="https://solididbucket.s3.amazonaws.com/HNG+Boilerplate.png" alt="Jenkins logo"> 
 </a>
@@ -176,7 +175,7 @@ CREATE DATABASE IMAGE;
 
 
 Build and run the application:
-```bash
+
 mvn clean install
 mvn spring-boot:run
 
